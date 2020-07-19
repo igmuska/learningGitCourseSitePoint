@@ -1,0 +1,3 @@
+# learningGitCourseSitePoint
+she is awesome...lol it is an old tutorial but very informative....
+This is my first or second project where I actually upload my workflow lol lazy...the technology was still very unstable, very few were using SSH or HTTPS...now it is improved, security is the foremost concern.
